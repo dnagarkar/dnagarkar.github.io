@@ -49,7 +49,7 @@ h6 {
 header {
     text-align: center;
     color: #ffffff;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/bg/princeton.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/bg/starvedrock.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
