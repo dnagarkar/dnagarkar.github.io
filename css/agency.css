@@ -54,8 +54,13 @@ section {
   padding: 20px 40px; }
 
 .btn-primary {
+<<<<<<< HEAD
   background-color: #fed136;
   border-color: #fed136; }
+=======
+  background-color: #9eaabd;
+  border-color: #9eaabd; }
+>>>>>>> d84e0680bab6e5de630fb11e9e4c356e4e58a972
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     background-color: #fec810 !important;
     border-color: #fec810 !important;
@@ -64,11 +69,19 @@ section {
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
 
 ::-moz-selection {
+<<<<<<< HEAD
   background: #fed136;
   text-shadow: none; }
 
 ::selection {
   background: #fed136;
+=======
+  background: #9eaabd;
+  text-shadow: none; }
+
+::selection {
+  background: #9eaabd;
+>>>>>>> d84e0680bab6e5de630fb11e9e4c356e4e58a972
   text-shadow: none; }
 
 img::selection {
@@ -78,7 +91,11 @@ img::-moz-selection {
   background: transparent; }
 
 body {
+<<<<<<< HEAD
   -webkit-tap-highlight-color: #fed136; }
+=======
+  -webkit-tap-highlight-color: #9eaabd; }
+>>>>>>> d84e0680bab6e5de630fb11e9e4c356e4e58a972
 
 #mainNav {
   background-color: #212529; }
@@ -89,10 +106,17 @@ body {
     text-transform: uppercase;
     color: white;
     border: 0;
+<<<<<<< HEAD
     background-color: #fed136;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
     color: #fed136;
+=======
+    background-color: #9eaabd;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  #mainNav .navbar-brand {
+    color: #9eaabd;
+>>>>>>> d84e0680bab6e5de630fb11e9e4c356e4e58a972
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
@@ -104,7 +128,11 @@ body {
     color: white;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+<<<<<<< HEAD
       color: #fed136; }
+=======
+      color: #9eaabd; }
+>>>>>>> d84e0680bab6e5de630fb11e9e4c356e4e58a972
 
 @media (min-width: 992px) {
   #mainNav {
